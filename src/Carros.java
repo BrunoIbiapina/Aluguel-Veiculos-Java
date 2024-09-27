@@ -10,7 +10,7 @@ public class Carros extends Veiculo {
     public double getCapacidadeCarga() {
         return capacidadeCarga;
     }
-
+    //teste
     public void setCapacidadeCarga(double capacidadeCarga) {
         this.capacidadeCarga = capacidadeCarga;
     }
